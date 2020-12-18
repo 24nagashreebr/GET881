@@ -12,6 +12,7 @@ public class Calc {
 	}
 	public void div(int a,int b){
 		System.out.println("Div= "+(a*b));
+		System.out.println("aa");
 	}
 
 }
